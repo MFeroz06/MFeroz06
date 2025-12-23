@@ -39,21 +39,33 @@
 
 ## 🧑‍💼 Position 
 ---
-### Universiti Teknologi Malaysia (UTM)
-- Multimedia Committee Member (SENIMAS KOLEJ TUN RAZAK 25/26)
-- PIC Sukan Sains Komputer 2025 (SUSKOM'25)
-- Head of Sponsorship Unit (Program Majlis Anugerah Tun Razak 2026 (MATRA'26))
+### Universiti Teknologi Malaysia (UTM) 
+- **Multimedia Committee Member** (SENIMAS KOLEJ TUN RAZAK 25/26)
+- **PIC Sukan Sains Komputer 2025** (SUSKOM'25)
+- **Head of Sponsorship Unit** (Program Majlis Anugerah Tun Razak 2026 (MATRA'26))
+- **Active Member** (GASABAYU)
+- **Active Member** (Citra Daksina)
+- **Active Member** (GASARI)
+- **Active Member** (PERMAS)
 
-### Kolej Matrikulasi Labuan (UTM)
+### Kolej Matrikulasi Labuan (UTM) 
 - Deputy Co-curricular Secretary
-- Committee Member (Makers Club)
+- **Committee Member** (Pendidikan Islam)
+- **Active Member** (Makers Club)
 
-### Sekolah Menengah Kebangsaan Labuan
-- President (Kelab Catur)
-- Treasurer (BSMM)
-- Treasurer (Pembimbing Rakan Sebaya)
-- Active Member (Kelab Doktor Muda)
-- Active Member (Kelab Pelancongan)
+### Sekolah Menengah Kebangsaan Labuan 
+- **Treasurer** (Peer Mentor)
+- **President** (Kelab Catur)
+- **Treasurer** (Bulan Sabit Merah Malaysia (BSMM))
+- **Active Member** (Kelab Doktor Muda)
+- **Active Member** (Kelab Pelancongan)
+
+##  Awards 🎖 / Achievements 🏆
+---
+### Kolej Matrikulasi Labuan (Achievements 🏆)
+
+- **Champion** in Pertandingan Video Drama Sebabak Sempena Bulan Kebangsaan 2024
+- 
 
 
 
