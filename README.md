@@ -60,12 +60,17 @@
 - **Active Member** (Kelab Doktor Muda)
 - **Active Member** (Kelab Pelancongan)
 
-##  Awards 🎖 / Achievements 🏆
+##  Achievements and Awards 🏆
 ---
-### Kolej Matrikulasi Labuan (Achievements 🏆)
+### Kolej Matrikulasi Labuan 
+- **Champion** (College-level) - [ Pertandingan Video Drama Sebabak Sempena Bulan Kebangsaan 2024 ]
+- Received **Award** in AGS'24/25 (Anugerah Gemilang Sains PSPM I/III Sesi 2024/2025 Aliran Science Komputer)
 
-- **Champion** in Pertandingan Video Drama Sebabak Sempena Bulan Kebangsaan 2024
-- 
+### Sekolah Menengah Kebangsaan Labuan
+- **Champion** (State Level) - [ Karnival Kelab Pelancongan Pelajar (K3P) ]
+- **Champion** (School-level) - [ Pertandingan Video Kreatif ]
+- **Champion** (State Level) - [ Pertandingan Tarian Tradisional ]
+- **1st r
 
 
 
