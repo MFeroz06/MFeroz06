@@ -70,11 +70,12 @@
 - **Champion** (State Level) - Karnival Kelab Pelancongan Pelajar (K3P) (2023)
 - **Champion** (School-level) - Pertandingan Video Kreatif (2023)
 - **Champion** (State Level) - Pertandingan Tarian Rampaian Tradisional (2022)
-- **Runner up** (State Level) - Pertandingan Tarian Sempena Festival Apresiasi Seni Untuk Semua (FASUS)
+- **Runner up** (State Level) - Pertandingan Tarian Sempena Festival Apresiasi Seni Untuk Semua (FASUS'2023)
 - **Runner up** (School-level) - Pertandingan Sudoku (2023)
 - **Runner up** (State Level) - FIT MALAYSIA 2023 Pertandingan Lompat Tali Berirama (2023)
 - **3rd Place** (State Level) - Pertandingan Ihtifal Lughawi Sekolah Menengah Acara Mimbar Daie Bahasa Mandarin (2023)
 - **3rd Place** (State Level) - Pertandingan Tarian Rampaian Tradisional (2023)
+- Received **Award** in Duta Sahsiah Pembentukan Karakter Karanah Insaniah
 
 ### Anak Seni Wilayah Persekutuan Labuan (ASWILA) 
 - **Runner up** (State Level) - Pertandingan Tarian Rampaian Belia Malaysia (2022)
@@ -82,7 +83,10 @@
 ### Mahligai Anak Seni Wilayah Persekutuan Labuan (MAS)
 - **Champion** (State Level) - Pertandingan Tarian Rampaian Tradisional Anjuran Pertubuhan Penggiat Seni Labuan (2024)
 
-
+---
+## Activies & Volunteering
+---
+### Universiti Teknologi Malaysia (UTM)
 
 <!-- ===== GITHUB STATS ===== 
 <p align="center">
