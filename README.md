@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code
+  &size=26
+  &pause=1000
+  &color=36BCF7
+  &center=true
+  &vCenter=true
+  &width=700
+  &lines=Welcome+to+my+profile%2C+take+a+look+%F0%9F%91%80" />
+</p>
+
 <!--
 **MFeroz06/MFeroz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
