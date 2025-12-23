@@ -26,7 +26,7 @@
 ### Universiti Teknologi Malaysia (UTM)
 - Bachelor of Computer Science (Data Engineering) with Honours
 ### Kolej Matrikulasi Labuan
-- Aliran Sains (Modul III)
+- Science Stream (Module III)
 - PSPM I = 4.00
 - PSPM II = 4.00
 - Co-Curriculum = 10%
@@ -35,8 +35,25 @@
 ### Sekolah Menengah Kebangsaan Labuan
 - SPM = 2A+ 2A 4A- 1B
 - PAJSK = 8.04 (A)
+---
 
+## 🧑‍💼 Position 
+---
+### Universiti Teknologi Malaysia (UTM)
+- Multimedia Committee Member (SENIMAS KOLEJ TUN RAZAK 25/26)
+- PIC Sukan Sains Komputer 2025 (SUSKOM'25)
+- Head of Sponsorship Unit (Program Majlis Anugerah Tun Razak 2026 (MATRA'26))
 
+### Kolej Matrikulasi Labuan (UTM)
+- Deputy Co-curricular Secretary
+- Committee Member (Makers Club)
+
+### Sekolah Menengah Kebangsaan Labuan
+- President (Kelab Catur)
+- Treasurer (BSMM)
+- Treasurer (Pembimbing Rakan Sebaya)
+- Active Member (Kelab Doktor Muda)
+- Active Member (Kelab Pelancongan)
 
 
 
@@ -49,15 +66,15 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
--->
----
+
+--- -->
 
 <!-- ===== TECH STACK =====
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,git,github&theme=dark" />
 </p>
--->
----
+
+--- -->
 
 <!-- ===== FOOTER WAVE ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
