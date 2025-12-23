@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!-- ===== HEADER WAVE ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
 
@@ -9,29 +9,46 @@
 
 ---
 
-### 👋 Hello!
-Welcome to my GitHub profile.  
-Here you can find my projects, experiments, and learning journey.
+# 👋 Hi, I’m Fairuz
+
+## 🧑‍💻 About Me
+---
+- 🎓 First-year Bachelor of Data Engineering (Honours) student at UTM (Cohort 10)  
+- 💻 Interested in coding and continuously exploring new technical skills  
+- 📚 Currently learning C++, with plans to explore other programming languages  
+- ⚽ Enjoys indoor/outdoor sports and video games during free time  
+- 🚀 Aspires to become a Data Engineer and work at my dream company
 
 ---
 
-<!-- ===== GITHUB STATS ===== -->
+## 🎓 Education
+---
+### Kolej Matrikulasi Labuan
+- PSPM I = 4.00
+- PSPM II = 4.00
+- Co-Curriculum = 10%
+- MUET = BAND 4.00
+
+
+
+
+<!-- ===== GITHUB STATS ===== 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
-
-<!-- ===== STREAK ===== -->
+-->
+<!-- ===== STREAK ===== 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
-
+-->
 ---
 
-<!-- ===== TECH STACK ===== -->
+<!-- ===== TECH STACK =====
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,git,github&theme=dark" />
 </p>
-
+-->
 ---
 
 <!-- ===== FOOTER WAVE ===== -->
