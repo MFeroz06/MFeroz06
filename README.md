@@ -23,11 +23,19 @@
 
 ## 🎓 Education
 ---
+### Universiti Teknologi Malaysia (UTM)
+- Bachelor of Computer Science (Data Engineering) with Honours
 ### Kolej Matrikulasi Labuan
+- Aliran Sains (Modul III)
 - PSPM I = 4.00
 - PSPM II = 4.00
 - Co-Curriculum = 10%
 - MUET = BAND 4.00
+
+### Sekolah Menengah Kebangsaan Labuan
+- SPM = 2A+ 2A 4A- 1B
+- PAJSK = 8.04 (A)
+
 
 
 
