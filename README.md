@@ -41,8 +41,6 @@
 ---
 ### Universiti Teknologi Malaysia (UTM) 
 - **Multimedia Committee Member** (SENIMAS KOLEJ TUN RAZAK 25/26)
-- **PIC Sukan Sains Komputer 2025** (SUSKOM'25)
-- **Head of Sponsorship Unit** (Program Majlis Anugerah Tun Razak 2026 (MATRA'26))
 - **Active Member** (GASABAYU)
 - **Active Member** (Citra Daksina)
 - **Active Member** (GASARI)
@@ -89,19 +87,39 @@
 ## Activies & Volunteering 
 ---
 ### Universiti Teknologi Malaysia (UTM)
-- **Participated** in Karnival Sukan Minggu Mesra Mahasiswa 2025
-- **Participated** in Sambutan Hari Akademia Universiti Teknologi Malaysia 2025
-- **Participated** in UTMDigital Day 2025
-- **Participated** in Athlete Gathering Kolej Tun Razak
-- **Participated** in Festival of Ideas 2025
-- **Participated** in UTM Games 2025 for Ultras
-- **Participated** in UTM Games 2025 for Mobile Legends Bang Bang
-- **Participated** in Student Enhancement SECP (Data Engineering) Program 2025
-- **Participated** in Industry Talk 1 (PPG)
-- **Participated** in Rehlah Harmoni Circle 2025
-- **Participated** in Japan Edutourism Exchange Program Shizuoka 2025
-- **Participated** in Japan Edutourism Exchange Program Nagasaki 2025
-- **Participated** in 
+- **Facilitator** (International Level) - Japan Edutourism Exchange Program Shizuoka 2025
+- **Facilitator** (International Level) - Japan Edutourism Exchange Program Nagasaki 2025
+- **Participant** (International Level) - Asean Quantum Summit 2025
+- **Participant** (National Level) - Festival of Ideas 2025
+- **Participant** (University-level) - Karnival Sukan Minggu Mesra Mahasiswa 2025
+- **Participant** (University-level) - Sambutan Hari Akademia Universiti Teknologi Malaysia 2025
+- **Participant** (University-level) - UTMDigital Day 2025
+- **Participant** (University-level) - UTM Games 2025 for Ultras
+- **Participant** (University-level) - UTM Games 2025 for Mobile Legends Bang Bang
+- **Participant** (University-level) - Student Enhancement SECP (Data Engineering) Program 2025
+- **Performer** (University-level) - Majlis Citra Gemilang JTNCP 2025
+- **Person in Charge (PIC)** (University-level) - Sukan Sains Komputer 2025 (SUSKOM'25)
+- **Participant** (Faculty-level) - Industry Talk 1 (PPG)
+- **Participant** (Faculty-level) - Industry Talk 2 (Serunai)
+- **Participant** (College-level) - Annual Grand SENIMAS 2025
+- **Participant** (College-level) - Athlete Gathering Kolej Tun Razak
+- **Head of Sponsorship Unit** (College-level) - Program Majlis Anugerah Tun Razak 2026 (MATRA'26)
+- **Participant** (Club-level) - Rehlah Harmoni Circle 2025
+- **Participant** (Club-level) - Talent New Gen Daksina 2025
+
+
+### Kolej Matrikulasi Labuan
+
+### Sekolah Menengah Kebangsaan Labuan
+- **Participant** (International Level) - Pertandingan Video Pendek Rise Asean
+- **Participant** (National Level) - Pertandingan Video Kreatif Pengurusan Bantu Mula "CPR"
+- **Participant** (National Level) - Karnival Kelab Program Pelancongan Pelajar (K3P)
+- **Participant** (National Level) - Kem Sukan Lompat Tali
+- **Participant** (State Level) - Kempen Derma Darah 2023
+- **Participant** (State Level) - Bengkel Tunas Budaya 2023
+- **Participant** (State Level) - FIT MALAYSIA 2023 Pertandingan Lompat Tali Berseorangan
+- **Participant** (School-level) - Pertandingan Scrabbles
+- **Participant** (School-level) - Persembahan Koir Majlis Makan Malam Ulang Tahun SJKC Chiwen ke 111 bagi Tahun 2023
 
 <!-- ===== GITHUB STATS ===== 
 <p align="center">
