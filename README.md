@@ -160,24 +160,16 @@
 - **Participant** (State Level) - FIT MALAYSIA 2023 Pertandingan Lompat Tali Berseorangan
 - **Participant** (School-level) - Pertandingan Scrabbles
 - **Participant** (School-level) - Persembahan Koir Majlis Makan Malam Ulang Tahun SJKC Chiwen ke 111 bagi Tahun 2023
-
+---
 <!-- ===== GITHUB STATS ===== --> 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MFeroz06&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)
 
-
-<!-- ===== STREAK ===== 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
---- -->
-
-<!-- ===== TECH STACK =====
+<!-- ===== TECH STACK ===== 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,git,github&theme=dark" />
 </p>
 
---- -->
+--->
 
 <!-- ===== FOOTER WAVE ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
