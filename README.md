@@ -62,6 +62,8 @@
 ---
 ##  Achievements and Awards 🏆
 ---
+### Universiti Teknologi Malaysia
+- **Runner up** (University-level) - Sumayau 3.0
 ### Kolej Matrikulasi Labuan 
 - **Champion** (College-level) - Pertandingan Video Drama Sebabak Sempena Bulan Kebangsaan 2024
 - Received **Award** in AGS'24/25 (Anugerah Gemilang Sains PSPM I/III Sesi 2024/2025 Aliran Science Komputer)
@@ -84,9 +86,13 @@
 - **Champion** (State Level) - Pertandingan Tarian Rampaian Tradisional Anjuran Pertubuhan Penggiat Seni Labuan (2024)
 
 ---
-## Activies & Volunteering
+## Activies & Volunteering 
 ---
 ### Universiti Teknologi Malaysia (UTM)
+- **Participated** in Karnival Sukan Minggu Mesra Mahasiswa 2025
+- **Participated** in Sambutan Hari Akademia Universiti Teknologi Malaysia 2025
+- **Participated** in UTMDigital Day 2025
+- **Participated** in
 
 <!-- ===== GITHUB STATS ===== 
 <p align="center">
