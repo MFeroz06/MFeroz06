@@ -161,11 +161,10 @@
 - **Participant** (School-level) - Pertandingan Scrabbles
 - **Participant** (School-level) - Persembahan Koir Majlis Makan Malam Ulang Tahun SJKC Chiwen ke 111 bagi Tahun 2023
 
-<!-- ===== GITHUB STATS ===== 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
--->
+<!-- ===== GITHUB STATS ===== --> 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MFeroz06&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)
+
+
 <!-- ===== STREAK ===== 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
