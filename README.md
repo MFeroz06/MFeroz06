@@ -98,7 +98,7 @@
 - **Champion** (State Level) - Pertandingan Tarian Rampaian Tradisional Anjuran Pertubuhan Penggiat Seni Labuan (2024)
 
 ---
-## Activies & Volunteering 
+## Activities & Volunteering 
 ---
 ### Universiti Teknologi Malaysia (UTM)
 - **Facilitator** (International Level) - Japan Edutourism Exchange Program Shizuoka 2025
@@ -107,19 +107,32 @@
 - **Participant** (National Level) - Festival of Ideas 2025
 - **Participant** (University-level) - Karnival Sukan Minggu Mesra Mahasiswa 2025
 - **Participant** (University-level) - Sambutan Hari Akademia Universiti Teknologi Malaysia 2025
-- **Participant** (University-level) - UTMDigital Day 2025
-- **Participant** (University-level) - UTM Games 2025 for Ultras
+- **Participant** (University-level) - Program Openday UTMDigital Day 2025
+- **Participant** (University-level) - Program "First Year Campus Adaptation, Resilience and Environment (FYCARE)" 2025
+- **Participant** (University-level) - UTM Games 2025 for ULTRAS
 - **Participant** (University-level) - UTM Games 2025 for Mobile Legends Bang Bang
 - **Participant** (University-level) - Student Enhancement SECP (Data Engineering) Program 2025
 - **Performer** (University-level) - Majlis Citra Gemilang JTNCP 2025
+- **Participant** (University-level) - Malam Kebudayaan Minggu Mesra Mahasiswa 2025
+- **Participant** (University-level) - UNBOCS'2025
+- **Participant** (University-level) - Townhall Pemilihan Majlis Perwakilan Pelajar (PMPP) Sesi 25/26
+- **Participant** (University-level) - Kepentingan Penjagaan Kesihatan Mental
+- **Participant** (University-level) - Ceramah Situasi Semasa Denggi Serta Langkah-langkah Pencegahan
 - **Person in Charge (PIC)** (University-level) - Sukan Sains Komputer 2025 (SUSKOM'25)
 - **Participant** (Faculty-level) - Industry Talk 1 (PPG)
 - **Participant** (Faculty-level) - Industry Talk 2 (Serunai)
 - **Participant** (College-level) - Annual Grand SENIMAS 2025
 - **Participant** (College-level) - Athlete Gathering Kolej Tun Razak
 - **Head of Sponsorship Unit** (College-level) - Program Majlis Anugerah Tun Razak 2026 (MATRA'26)
+- **Participant** (College-level) - Semarak Subuh
+- **Participant** (College-level) - Modul Adab Siri 1 - Adab Menuntut Ilmu
+- **Participant** (College-level) - Modul Adab Siri 2
+- **Participant** (College-level) - Modul Adab Siri 3 - Adab Terhadap Pensyarah
+- **Participant** (College-level) - Daftar Kelab Tun Razak 2025/2026 (DAKTAR)
+- **Volunteer** (Club-level) - Sempena Maulidul Rasul Peringkat Taman Sri Pulai & Jalan Kabung 1446/2024
 - **Participant** (Club-level) - Rehlah Harmoni Circle 2025
 - **Participant** (Club-level) - Talent New Gen Daksina 2025
+- **Participant** (Club-level) - First Meeting SRC 25/26
 
 
 ### Kolej Matrikulasi Labuan
