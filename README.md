@@ -57,6 +57,20 @@
 - **Treasurer** (Bulan Sabit Merah Malaysia (BSMM))
 - **Active Member** (Kelab Doktor Muda)
 - **Active Member** (Kelab Pelancongan)
+
+### Mahligai Anak Seni (MAS)
+- **Active Member**
+
+### Persatuan Lompat Tali Labuan 2025
+- **Committee Member** (Photography & Reporting)
+
+### Anak Seni Wilayah Persekutuan Labuan 2025
+- **Active Member**
+
+### Sukan Para Renang Wilayah Persekutuan Labuan (SUPRA)
+- **Committee Member**
+
+
 ---
 ##  Achievements and Awards 🏆
 ---
@@ -109,12 +123,25 @@
 
 
 ### Kolej Matrikulasi Labuan
+- **Participant** (National Level) - Program Tanya Khabar Keluarga Kolej Matrikulasi Labuan Sempena Lawatan KDYMM Raja Permaisuri Agong 2024
+- **Participant** (College-level) - Khatam Quran 2025
+- **Participant** (College-level) - Matrix Extra Quiz Challenge (MEX-Q) Peringkat Saringan (Sains Komputer)
+- **Participant** (College-level) - Mini KAKOM Tarian Rampaian Tradisional 2024
+- **Participant** (College-level) - Pertandingan Sukan Tradisional 2025
+- **Participant** (College-level) - Pertandingan Dodgeball 2025 Anjuran A13 & A14
+- **Participant** (College-level) - Pertandingan Seri Lantai Tradisi Anjuran Exco Sukan Dan Kebudayaan JPP
 
 ### Sekolah Menengah Kebangsaan Labuan
 - **Participant** (International Level) - Pertandingan Video Pendek Rise Asean
 - **Participant** (National Level) - Pertandingan Video Kreatif Pengurusan Bantu Mula "CPR"
 - **Participant** (National Level) - Karnival Kelab Program Pelancongan Pelajar (K3P)
 - **Participant** (National Level) - Kem Sukan Lompat Tali
+- **Participant** (National Level) - Pertandingan Kuiz HePiLI Virtual 2023
+- **Participant** (National Level) - Festival Teknologi Hijau & Stem Biodiversiti 2022
+- **Participant** (National Level) - Kursus Kepimpinan Skim Lencana Anti Dadah (SLAD) 2022
+- **Participant** (State Level) - Simposium Pembimbing Rakan Sebaya 2022
+- **Participant** (State Level) - Maitah Membaca @ Jom Membaca 10 Minit 2021
+- **Participant** (State Level) - Kuiz Pasukan Badan Beruniform Kementerian Pendidikan Malaysia dalam Talian 2020
 - **Participant** (State Level) - Kempen Derma Darah 2023
 - **Participant** (State Level) - Bengkel Tunas Budaya 2023
 - **Participant** (State Level) - FIT MALAYSIA 2023 Pertandingan Lompat Tali Berseorangan
