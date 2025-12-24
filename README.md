@@ -92,7 +92,16 @@
 - **Participated** in Karnival Sukan Minggu Mesra Mahasiswa 2025
 - **Participated** in Sambutan Hari Akademia Universiti Teknologi Malaysia 2025
 - **Participated** in UTMDigital Day 2025
-- **Participated** in
+- **Participated** in Athlete Gathering Kolej Tun Razak
+- **Participated** in Festival of Ideas 2025
+- **Participated** in UTM Games 2025 for Ultras
+- **Participated** in UTM Games 2025 for Mobile Legends Bang Bang
+- **Participated** in Student Enhancement SECP (Data Engineering) Program 2025
+- **Participated** in Industry Talk 1 (PPG)
+- **Participated** in Rehlah Harmoni Circle 2025
+- **Participated** in Japan Edutourism Exchange Program Shizuoka 2025
+- **Participated** in Japan Edutourism Exchange Program Nagasaki 2025
+- **Participated** in 
 
 <!-- ===== GITHUB STATS ===== 
 <p align="center">
