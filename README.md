@@ -207,7 +207,9 @@
 
 <!-- ===== TECH STACK ===== 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,github,java,&theme=dark" />
+</p>
+<img src="https://logos-world.net/wp-content/uploads/2024/01/CapCut-Logo.jpg" alt="CapCut Logo" width="100" height="100"> 
 </p>
 
 --->
