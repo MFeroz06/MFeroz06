@@ -152,6 +152,7 @@
 - **Participant** (National Level) - Pertandingan Kuiz HePiLI Virtual 2023
 - **Participant** (National Level) - Festival Teknologi Hijau & Stem Biodiversiti 2022
 - **Participant** (National Level) - Kursus Kepimpinan Skim Lencana Anti Dadah (SLAD) 2022
+- **Participant** (State Level) - Bengkel Tarian Rampaian 2023
 - **Participant** (State Level) - Simposium Pembimbing Rakan Sebaya 2022
 - **Participant** (State Level) - Maitah Membaca @ Jom Membaca 10 Minit 2021
 - **Participant** (State Level) - Kuiz Pasukan Badan Beruniform Kementerian Pendidikan Malaysia dalam Talian 2020
@@ -160,6 +161,9 @@
 - **Participant** (State Level) - FIT MALAYSIA 2023 Pertandingan Lompat Tali Berseorangan
 - **Participant** (School-level) - Pertandingan Scrabbles
 - **Participant** (School-level) - Persembahan Koir Majlis Makan Malam Ulang Tahun SJKC Chiwen ke 111 bagi Tahun 2023
+
+### Mahligai Anak Seni Wilayah Persekutuan Labuan (MAS)
+- **Participant** (State Level) - Bengkel Tarian Sarawak 2024
 ---
 <!-- ===== GITHUB STATS ===== --> 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MFeroz06&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)
