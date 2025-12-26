@@ -228,8 +228,9 @@
  ULRS1032 | Integrity and Anti-Corruption
  </a>
      </p>
+     
 ---
-
+## Project
 ## 📞 Contact
 ---
 <p> 
@@ -245,12 +246,11 @@ mfairuz06@gmail.com
 
 ---
 
-
-
-
-<!-- ===== GITHUB STATS ===== --> 
+## 📊 Github Activity Graph
+---
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MFeroz06&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)
 
+---
 <!-- ===== TECH STACK ===== 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram,&theme=dark" />
