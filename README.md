@@ -200,7 +200,7 @@
 
 ## Contact
 <p align="center">
-  <a href="mailto:mfairuz06@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mfairuz06@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail,&theme=dark" />
     </a>
 </p>
