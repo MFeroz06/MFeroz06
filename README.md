@@ -200,22 +200,35 @@
 
 ## 📖 Courses 
 ---
+<p>
 <a href="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-" target="_blank">
- SECP1513 | Technology and Information System (WBL)
+ SECP1513 | Technology and Information System (WBL) 
  </a> 
+</p>
+
+<p>
  <a href="https://github.com/MFeroz06/SECJ1013-Programming-Technique-I" target="_blank">
  SECJ1013 | Programming Technique I
  </a>
+</p>
+
+<p>
  <a href="https://github.com/MFeroz06/SECR1013-Digital-Logic" target="_blank">
  SECR1013 | Digital Logic
  </a>
+  </p>
+
+  <p>
  <a href="https://github.com/MFeroz06/SECI-1013-Discrete-Structure" target="_blank">
  SECI1013 | Discrete Structure
  </a>
+    </p>
+     <p>
  <a href="https://github.com/MFeroz06/ULRS1032---Integrity-and-Anti-Corruption" target="_blank">
  ULRS1032 | Integrity and Anti-Corruption
  </a>
-
+     </p>
+---
 
 ## 📞 Contact
 ---
