@@ -69,39 +69,43 @@
 ## 🏆 Achievements and Awards 
 ---
 ### Universiti Teknologi Malaysia
-- **Runner up** (University-level) - Sumayau 3.0
+- University-level
+  - **Runner up** - Sumayau 3.0
 
 ### Kolej Matrikulasi Labuan 
-- **Champion** (College-level) - Pertandingan Video Drama Sebabak Sempena Bulan Kebangsaan 2024
+- (College-level)
+  - **Champion** - Pertandingan Video Drama Sebabak Sempena Bulan Kebangsaan 2024
 - Received **Award** in AGS'24/25 (Anugerah Gemilang Sains PSPM I/III Sesi 2024/2025 Aliran Science Komputer)
 
 ### Sekolah Menengah Kebangsaan Labuan
-- **Champion** (State Level) - Karnival Kelab Pelancongan Pelajar (K3P) (2023)
-- **Champion** (School-level) - Pertandingan Video Kreatif (2023)
-- **Champion** (State Level) - Pertandingan Tarian Rampaian Tradisional (2022)
-- **Runner up** (State Level) - Pertandingan Tarian Sempena Festival Apresiasi Seni Untuk Semua (FASUS'2023)
-- **Runner up** (School-level) - Pertandingan Sudoku (2023)
-- **Runner up** (State Level) - FIT MALAYSIA 2023 Pertandingan Lompat Tali Berirama (2023)
-- **3rd Place** (State Level) - Pertandingan Ihtifal Lughawi Sekolah Menengah Acara Mimbar Daie Bahasa Mandarin (2023)
-- **3rd Place** (State Level) - Pertandingan Tarian Rampaian Tradisional (2023)
+- State Level
+  - **Champion** - Karnival Kelab Pelancongan Pelajar (K3P) (2023)
+  - **Champion** - Pertandingan Tarian Rampaian Tradisional (2022)
+  - **Runner up** - Pertandingan Tarian Sempena Festival Apresiasi Seni Untuk Semua (FASUS'2023)
+  - **Runner up** - FIT MALAYSIA 2023 Pertandingan Lompat Tali Berirama (2023)
+  - **3rd Place** - Pertandingan Ihtifal Lughawi Sekolah Menengah Acara Mimbar Daie Bahasa Mandarin (2023)
+  - **3rd Place** - Pertandingan Tarian Rampaian Tradisional (2023)
+- School-level
+  - **Champion** - Pertandingan Video Kreatif (2023)
+  - **Runner up** - Pertandingan Sudoku (2023)
 - Received **Award** in Duta Sahsiah Pembentukan Karakter Karanah Insaniah
 
 ### Anak Seni Wilayah Persekutuan Labuan (ASWILA) 
-- **Runner up** (State Level) - Pertandingan Tarian Rampaian Belia Malaysia (2022)
+- State Level
+  - **Runner up** - Pertandingan Tarian Rampaian Belia Malaysia (2022)
 
 ### Mahligai Anak Seni Wilayah Persekutuan Labuan (MAS)
-- **Champion** (State Level) - Pertandingan Tarian Rampaian Tradisional Anjuran Pertubuhan Penggiat Seni Labuan (2024)
-
-
+- State Level
+  - **Champion** - Pertandingan Tarian Rampaian Tradisional Anjuran Pertubuhan Penggiat Seni Labuan (2024)
 ---
 ## 🧑‍💼 Position 
 ---
 ### Universiti Teknologi Malaysia (UTM) 
-- **Multimedia Committee Member** (SENIMAS KOLEJ TUN RAZAK 25/26)
-- **Active Member** (GASABAYU)
+- **Multimedia Committee Member** (Senimas KOLEJ TUN RAZAK 25/26)
+- **Active Member** (Gasabayu)
 - **Active Member** (Citra Daksina)
-- **Active Member** (GASARI)
-- **Active Member** (PERMAS)
+- **Active Member** (Gasari)
+- **Active Member** (Permas)
 
 ### Kolej Matrikulasi Labuan (UTM) 
 - Deputy Co-curricular Secretary
@@ -133,69 +137,83 @@
 ## ⏳ Activities & Volunteering 
 ---
 ### Universiti Teknologi Malaysia (UTM)
-- **Facilitator** (International Level) - Japan Edutourism Exchange Program Shizuoka 2025
-- **Facilitator** (International Level) - Japan Edutourism Exchange Program Nagasaki 2025
-- **Participant** (International Level) - Asean Quantum Summit 2025
-- **Participant** (National Level) - Festival of Ideas 2025
-- **Person in Charge (PIC)** (University-level) - Sukan Sains Komputer 2025 (SUSKOM'25)
-- **Performer** (University-level) - Majlis Citra Gemilang JTNCP 2025
-- **Participant** (University-level) - Karnival Sukan Minggu Mesra Mahasiswa 2025
-- **Participant** (University-level) - Sambutan Hari Akademia Universiti Teknologi Malaysia 2025
-- **Participant** (University-level) - Program Openday UTMDigital Day 2025
-- **Participant** (University-level) - Program "First Year Campus Adaptation, Resilience and Environment (FYCARE)" 2025
-- **Participant** (University-level) - UTM Games 2025 for ULTRAS
-- **Participant** (University-level) - UTM Games 2025 for Mobile Legends Bang Bang
-- **Participant** (University-level) - Student Enhancement SECP (Data Engineering) Program 2025
-- **Participant** (University-level) - Malam Kebudayaan Minggu Mesra Mahasiswa 2025
-- **Participant** (University-level) - UNBOCS'2025
-- **Participant** (University-level) - Townhall Pemilihan Majlis Perwakilan Pelajar (PMPP) Sesi 25/26
-- **Participant** (University-level) - Kepentingan Penjagaan Kesihatan Mental
-- **Participant** (University-level) - Ceramah Situasi Semasa Denggi Serta Langkah-langkah Pencegahan
-- **Participant** (Faculty-level) - Industry Talk 1 (PPG)
-- **Participant** (Faculty-level) - Industry Talk 2 (Serunai)
-- **Head of Sponsorship Unit** (College-level) - Program Majlis Anugerah Tun Razak 2026 (MATRA'26)
-- **Participant** (College-level) - Annual Grand SENIMAS 2025
-- **Participant** (College-level) - Athlete Gathering Kolej Tun Razak
-- **Participant** (College-level) - Semarak Subuh
-- **Participant** (College-level) - Modul Adab Siri 1 - Adab Menuntut Ilmu
-- **Participant** (College-level) - Modul Adab Siri 2
-- **Participant** (College-level) - Modul Adab Siri 3 - Adab Terhadap Pensyarah
-- **Participant** (College-level) - Daftar Kelab Tun Razak 2025/2026 (DAKTAR)
-- **Volunteer** (Club-level) - Sempena Maulidul Rasul Peringkat Taman Sri Pulai & Jalan Kabung 1446/2024
-- **Participant** (Club-level) - Rehlah Harmoni Circle 2025
-- **Participant** (Club-level) - Talent New Gen Daksina 2025
-- **Participant** (Club-level) - First Meeting SRC 25/26
+- International Level
+  - **Facilitator** - Japan Edutourism Exchange Program Shizuoka 2025
+  - **Facilitator** - Japan Edutourism Exchange Program Nagasaki 2025
+  - **Participant** - Asean Quantum Summit 2025
+- National Level
+  - **Participant** - Festival of Ideas 2025
+- University-level
+  - **Person in Charge (PIC)** - Sukan Sains Komputer 2025 (SUSKOM'25)
+  - **Performer** - Majlis Citra Gemilang JTNCP 2025
+  - **Participant** - Karnival Sukan Minggu Mesra Mahasiswa 2025
+  - **Participant** - Sambutan Hari Akademia Universiti Teknologi Malaysia 2025
+  - **Participant** - Program Openday UTMDigital Day 2025
+  - **Participant** - Program "First Year Campus Adaptation, Resilience and Environment (FYCARE)" 2025
+  - **Participant** - UTM Games 2025 for ULTRAS
+  - **Participant** - UTM Games 2025 for Mobile Legends Bang Bang
+  - **Participant** - Student Enhancement SECP (Data Engineering) Program 2025
+  - **Participant** - Malam Kebudayaan Minggu Mesra Mahasiswa 2025
+  - **Participant** - UNBOCS'2025
+  - **Participant** - Townhall Pemilihan Majlis Perwakilan Pelajar (PMPP) Sesi 25/26
+  - **Participant** - Kepentingan Penjagaan Kesihatan Mental
+  - **Participant** - Ceramah Situasi Semasa Denggi Serta Langkah-langkah Pencegahan
+- Faculty-level
+  - **Participant**- Industry Talk 1 (PPG)
+  - **Participant** - Industry Talk 2 (Serunai)
+- College-level
+  - **Head of Sponsorship Unit** - Program Majlis Anugerah Tun Razak 2026 (MATRA'26)
+  - **Participant** - Annual Grand SENIMAS 2025
+  - **Participant** - Athlete Gathering Kolej Tun Razak
+  - **Participant** - Semarak Subuh
+  - **Participant** - Modul Adab Siri 1 - Adab Menuntut Ilmu
+  - **Participant** - Modul Adab Siri 2
+  - **Participant** - Modul Adab Siri 3 - Adab Terhadap Pensyarah
+  - **Participant** - Daftar Kelab Tun Razak 2025/2026 (DAKTAR)
+- Club-level
+  - **Volunteer** - Sempena Maulidul Rasul Peringkat Taman Sri Pulai & Jalan Kabung 1446/2024
+  - **Participant** - Rehlah Harmoni Circle 2025
+  - **Participant** - Talent New Gen Daksina 2025
+  - **Participant** - First Meeting SRC 25/26
 
 
 ### Kolej Matrikulasi Labuan
-- **Participant** (National Level) - Program Tanya Khabar Keluarga Kolej Matrikulasi Labuan Sempena Lawatan KDYMM Raja Permaisuri Agong 2024
-- **Participant** (College-level) - Khatam Quran 2025
-- **Participant** (College-level) - Matrix Extra Quiz Challenge (MEX-Q) Peringkat Saringan (Sains Komputer)
-- **Participant** (College-level) - Mini KAKOM Tarian Rampaian Tradisional 2024
-- **Participant** (College-level) - Pertandingan Sukan Tradisional 2025
-- **Participant** (College-level) - Pertandingan Dodgeball 2025 Anjuran A13 & A14
-- **Participant** (College-level) - Pertandingan Seri Lantai Tradisi Anjuran Exco Sukan Dan Kebudayaan JPP
+- National Level
+  - **Participant** - Program Tanya Khabar Keluarga Kolej Matrikulasi Labuan Sempena Lawatan KDYMM Raja Permaisuri Agong 2024
+- College Level
+  - **Participant** - Khatam Quran 2025
+  - **Participant** - Matrix Extra Quiz Challenge (MEX-Q) Peringkat Saringan (Sains Komputer)
+  - **Participant** - Mini KAKOM Tarian Rampaian Tradisional 2024
+  - **Participant** - Pertandingan Sukan Tradisional 2025
+  - **Participant** - Pertandingan Dodgeball 2025 Anjuran A13 & A14
+  - **Participant** - Pertandingan Seri Lantai Tradisi Anjuran Exco Sukan Dan Kebudayaan JPP
+  - **Participant** - Hari Sukan Negara 2024
 
 ### Sekolah Menengah Kebangsaan Labuan
-- **Participant** (International Level) - Pertandingan Video Pendek Rise Asean
-- **Participant** (National Level) - Pertandingan Video Kreatif Pengurusan Bantu Mula "CPR"
-- **Participant** (National Level) - Karnival Kelab Program Pelancongan Pelajar (K3P)
-- **Participant** (National Level) - Kem Sukan Lompat Tali
-- **Participant** (National Level) - Pertandingan Kuiz HePiLI Virtual 2023
-- **Participant** (National Level) - Festival Teknologi Hijau & Stem Biodiversiti 2022
-- **Participant** (National Level) - Kursus Kepimpinan Skim Lencana Anti Dadah (SLAD) 2022
-- **Participant** (State Level) - Bengkel Tarian Rampaian 2023
-- **Participant** (State Level) - Simposium Pembimbing Rakan Sebaya 2022
-- **Participant** (State Level) - Maitah Membaca @ Jom Membaca 10 Minit 2021
-- **Participant** (State Level) - Kuiz Pasukan Badan Beruniform Kementerian Pendidikan Malaysia dalam Talian 2020
-- **Participant** (State Level) - Kempen Derma Darah 2023
-- **Participant** (State Level) - Bengkel Tunas Budaya 2023
-- **Participant** (State Level) - FIT MALAYSIA 2023 Pertandingan Lompat Tali Berseorangan
-- **Participant** (School-level) - Pertandingan Scrabbles
-- **Participant** (School-level) - Persembahan Koir Majlis Makan Malam Ulang Tahun SJKC Chiwen ke 111 bagi Tahun 2023
+- International Level
+  - **Participant** - Pertandingan Video Pendek Rise Asean
+- National Level
+  - **Participant** - Pertandingan Video Kreatif Pengurusan Bantu Mula "CPR"
+  - **Participant** - Karnival Kelab Program Pelancongan Pelajar (K3P)
+  - **Participant** - Kem Sukan Lompat Tali
+  - **Participant** - Pertandingan Kuiz HePiLI Virtual 2023
+  - **Participant** - Festival Teknologi Hijau & Stem Biodiversiti 2022
+  - **Participant** - Kursus Kepimpinan Skim Lencana Anti Dadah (SLAD) 2022
+- State Level
+  - **Participant** - Bengkel Tarian Rampaian 2023
+  - **Participant** - Simposium Pembimbing Rakan Sebaya 2022
+  - **Participant** - Maitah Membaca @ Jom Membaca 10 Minit 2021
+  - **Participant** - Kuiz Pasukan Badan Beruniform Kementerian Pendidikan Malaysia dalam Talian 2020
+  - **Participant** - Kempen Derma Darah 2023
+  - **Participant** - Bengkel Tunas Budaya 2023
+  - **Participant** - FIT MALAYSIA 2023 Pertandingan Lompat Tali Berseorangan
+- School-level
+  - **Participant** - Pertandingan Scrabbles
+  - **Participant** - Persembahan Koir Majlis Makan Malam Ulang Tahun SJKC Chiwen ke 111 bagi Tahun 2023
 
 ### Mahligai Anak Seni Wilayah Persekutuan Labuan (MAS)
-- **Participant** (State Level) - Bengkel Tarian Sarawak 2024
+- State Level
+- **Participant** - Bengkel Tarian Sarawak 2024
 ---
 
 ## 📖 Courses 
