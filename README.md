@@ -199,7 +199,11 @@
 ---
 
 ## Contact
-- Email: mfairuz06@gmail.com
+<p align="center">
+  <a href="mailto:mfairuz06@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail,&theme=dark" />
+    </a>
+</p>
 
 
 <!-- ===== GITHUB STATS ===== --> 
@@ -207,7 +211,7 @@
 
 <!-- ===== TECH STACK ===== 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,github,java,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram,&theme=dark" />
 </p>
 <img src="https://logos-world.net/wp-content/uploads/2024/01/CapCut-Logo.jpg" alt="CapCut Logo" width="100" height="100"> 
 </p>
