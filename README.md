@@ -203,6 +203,10 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mfairuz06@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail,&theme=dark" />
     </a>
+  <a href="https://www.linkedin.com/in/muhammad-fairuz-bin-herman-2016a4387/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin,&theme=dark" />
+  </a>
+  
 </p>
 
 
