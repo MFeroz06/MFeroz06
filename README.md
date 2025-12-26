@@ -37,7 +37,7 @@
 - SPM = 2A+ 2A 4A- 1B
 - PAJSK = 8.04 (A)
 ---
-## Skills
+## 🛠️ Skills  
 ---
 ### Technical Skills
 - C++ - Basic
@@ -63,10 +63,10 @@
 - Dance
 - Choreography
 - Photography
-- Taekwondo - Green Belt
+- Taekwondo
 
 ---
-##  Achievements and Awards 🏆
+## 🏆 Achievements and Awards 
 ---
 ### Universiti Teknologi Malaysia
 - **Runner up** (University-level) - Sumayau 3.0
@@ -130,7 +130,7 @@
 
 ---
 
-## Activities & Volunteering 
+## ⏳ Activities & Volunteering 
 ---
 ### Universiti Teknologi Malaysia (UTM)
 - **Facilitator** (International Level) - Japan Edutourism Exchange Program Shizuoka 2025
@@ -198,7 +198,9 @@
 - **Participant** (State Level) - Bengkel Tarian Sarawak 2024
 ---
 
-## Contact
+## 📖 Courses 
+
+## 📞 Contact
 ---
 <p> 
 Email -
