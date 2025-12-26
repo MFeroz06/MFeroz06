@@ -206,11 +206,13 @@ Email -
 mfairuz06@gmail.com
  </a>  
 </p>
-<p> 
+
 <a href="https://www.linkedin.com/in/muhammad-fairuz-bin-herman-2016a4387/" target="_blank">
     Visit my LinkedIn
 </a>
-</p>
+
+---
+
 
 
 
