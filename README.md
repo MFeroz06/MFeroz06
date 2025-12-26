@@ -199,10 +199,18 @@
 ---
 
 ## Contact
-- Email -
+---
+<p> 
+Email -
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mfairuz06@gmail.com" target="_blank">
 mfairuz06@gmail.com
- </a> 
+ </a>  
+</p>
+<p> 
+<a href="https://www.linkedin.com/in/muhammad-fairuz-bin-herman-2016a4387/" target="_blank">
+    Visit my LinkedIn
+</a>
+</p>
 
 
 
