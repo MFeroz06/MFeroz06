@@ -137,6 +137,8 @@
 - **Facilitator** (International Level) - Japan Edutourism Exchange Program Nagasaki 2025
 - **Participant** (International Level) - Asean Quantum Summit 2025
 - **Participant** (National Level) - Festival of Ideas 2025
+- **Person in Charge (PIC)** (University-level) - Sukan Sains Komputer 2025 (SUSKOM'25)
+- **Performer** (University-level) - Majlis Citra Gemilang JTNCP 2025
 - **Participant** (University-level) - Karnival Sukan Minggu Mesra Mahasiswa 2025
 - **Participant** (University-level) - Sambutan Hari Akademia Universiti Teknologi Malaysia 2025
 - **Participant** (University-level) - Program Openday UTMDigital Day 2025
@@ -144,18 +146,16 @@
 - **Participant** (University-level) - UTM Games 2025 for ULTRAS
 - **Participant** (University-level) - UTM Games 2025 for Mobile Legends Bang Bang
 - **Participant** (University-level) - Student Enhancement SECP (Data Engineering) Program 2025
-- **Performer** (University-level) - Majlis Citra Gemilang JTNCP 2025
 - **Participant** (University-level) - Malam Kebudayaan Minggu Mesra Mahasiswa 2025
 - **Participant** (University-level) - UNBOCS'2025
 - **Participant** (University-level) - Townhall Pemilihan Majlis Perwakilan Pelajar (PMPP) Sesi 25/26
 - **Participant** (University-level) - Kepentingan Penjagaan Kesihatan Mental
 - **Participant** (University-level) - Ceramah Situasi Semasa Denggi Serta Langkah-langkah Pencegahan
-- **Person in Charge (PIC)** (University-level) - Sukan Sains Komputer 2025 (SUSKOM'25)
 - **Participant** (Faculty-level) - Industry Talk 1 (PPG)
 - **Participant** (Faculty-level) - Industry Talk 2 (Serunai)
+- **Head of Sponsorship Unit** (College-level) - Program Majlis Anugerah Tun Razak 2026 (MATRA'26)
 - **Participant** (College-level) - Annual Grand SENIMAS 2025
 - **Participant** (College-level) - Athlete Gathering Kolej Tun Razak
-- **Head of Sponsorship Unit** (College-level) - Program Majlis Anugerah Tun Razak 2026 (MATRA'26)
 - **Participant** (College-level) - Semarak Subuh
 - **Participant** (College-level) - Modul Adab Siri 1 - Adab Menuntut Ilmu
 - **Participant** (College-level) - Modul Adab Siri 2
