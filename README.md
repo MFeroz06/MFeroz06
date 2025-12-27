@@ -9,7 +9,7 @@
 
 ---
 
-# 👋 Hi, I’m Fairuz
+ # 👋 Hi, I’m Fairuz
 
 ## 🧑‍💻 About Me
 ---
