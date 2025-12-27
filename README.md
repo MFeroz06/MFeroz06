@@ -220,10 +220,13 @@
 
 ## 📖 Courses 
 ---
+### 1 / SECPH
+#### Sem 1
+---
 <p>
 <a href="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-" target="_blank">
- SECP1513 | Technology and Information System (WBL) 
- </a> 
+SECP1513 | Technology and Information System (WBL) 
+</a> 
 </p>
 
 <p>
