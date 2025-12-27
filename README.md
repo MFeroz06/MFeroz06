@@ -27,9 +27,9 @@
 - Bachelor of Computer Science (Data Engineering) with Honours
 ### Kolej Matrikulasi Labuan
 - Science Stream (Module III)
-- PSPM I = 4.00
-- PSPM II = 4.00
-- CGPA = 4.00
+  - PSPM I = 4.00
+  - PSPM II = 4.00
+  - CGPA = 4.00
 - Co-Curriculum = 10%
 - MUET = BAND 4.00
 
