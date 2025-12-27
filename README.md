@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 ---
-- 🎓 First-year Bachelor of Data Engineering (Honours) student at UTM (Cohort 10)  
+- 🎓 First-year Bachelor of Computer Science (Data Engineering) with Honours student at UTM (Cohort 10)  
 - 💻 Interested in coding and continuously exploring new technical skills  
 - 📚 Currently learning C++, with plans to explore other programming languages  
 - ⚽ Enjoys indoor/outdoor sports and video games during free time  
