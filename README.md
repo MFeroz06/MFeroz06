@@ -159,9 +159,9 @@
   - **Participant** - Kepentingan Penjagaan Kesihatan Mental
   - **Participant** - Ceramah Situasi Semasa Denggi Serta Langkah-langkah Pencegahan
   - **Participant** - UTMD InsightX 3 "Information System"
-  - **Participant** _ UTMD InsightX 4 "Digital Infra & Data Engineering"
+  - **Participant** - UTMD InsightX 4 "Digital Infra & Data Engineering"
 - Faculty-level
-  - **Participant**- Industry Talk 1 (PPG)
+  - **Participant** - Industry Talk 1 (PPG)
   - **Participant** - Industry Talk 2 (Serunai)
 - College-level
   - **Head of Sponsorship Unit** - Program Majlis Anugerah Tun Razak 2026 (MATRA'26)
@@ -261,7 +261,7 @@ SECP1513 | Technology and Information System (WBL)
 <p> 
 Email -
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mfairuz06@gmail.com" target="_blank">
-mfairuz06@gmail.com
+Email Me /mfairuz06@gmail.com
  </a>  
 </p>
 
