@@ -253,6 +253,15 @@ SECP1513 | Technology and Information System (WBL)
      </p>
      
 ---
+## Mini Project 
+---
+ <p>
+ <a href="https://github.com/MFeroz06/SECJ1013-Programming-Technique-I/tree/main/Assignment/Assignment%202" target="_blank">
+ Basal Metabolic Rate (BMR) Calculator
+ </a>
+     </p>
+
+
 ## Project
 ---
 
