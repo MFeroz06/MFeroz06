@@ -182,7 +182,7 @@
 ### Kolej Matrikulasi Labuan
 - National Level
   - **Participant** - Program Tanya Khabar Keluarga Kolej Matrikulasi Labuan Sempena Lawatan KDYMM Raja Permaisuri Agong 2024
-- College Level
+- Institution Level
   - **Participant** - Khatam Quran 2025
   - **Participant** - Matrix Extra Quiz Challenge (MEX-Q) Peringkat Saringan (Sains Komputer)
   - **Participant** - Mini KAKOM Tarian Rampaian Tradisional 2024
@@ -221,7 +221,7 @@
 ## 📖 Courses 
 ---
 ### 1 / SECPH
-#### Sem 1
+#### 1️⃣ Sem 1
 ---
 <p>
 <a href="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-" target="_blank">
@@ -253,7 +253,7 @@ SECP1513 | Technology and Information System (WBL)
      </p>
      
 ---
-## Mini Project 
+## 🧩 Mini Project 
 ---
  <p>
  <a href="https://github.com/MFeroz06/SECJ1013-Programming-Technique-I/tree/main/Assignment/Assignment%202" target="_blank">
@@ -262,8 +262,18 @@ SECP1513 | Technology and Information System (WBL)
      </p>
 
 
-## Project
+## 📁 Project
 ---
+<p>
+ <a href="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/tree/main/Project%20%3A%20Design%20Thinking" target="_blank">
+  UTMSmart Study Space Application
+ </a>
+     </p>
+<p>
+ <a href="https://github.com/MFeroz06/SECR1013-Digital-Logic/tree/main/Project" target="_blank">
+  Elevator Controller System
+ </a>
+     </p>
 
 ## 📞 Contact
 ---
