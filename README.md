@@ -259,7 +259,7 @@ SECP1513 | Technology and Information System (WBL)
 ## 📞 Contact
 ---
 <p> 
-Email -
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mfairuz06@gmail.com" target="_blank">
 Email Me /mfairuz06@gmail.com
  </a>  
