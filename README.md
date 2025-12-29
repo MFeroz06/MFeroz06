@@ -73,7 +73,7 @@
   - **Runner up** - Sumayau 3.0
 
 ### Kolej Matrikulasi Labuan 
-- (College-level)
+- College-level
   - **Champion** - Pertandingan Video Drama Sebabak Sempena Bulan Kebangsaan 2024
 - Received **Award** in AGS'24/25 (Anugerah Gemilang Sains PSPM I/III Sesi 2024/2025 Aliran Science Komputer)
 
