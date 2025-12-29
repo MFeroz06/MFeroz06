@@ -260,7 +260,11 @@ SECP1513 | Technology and Information System (WBL)
  Basal Metabolic Rate (BMR) Calculator
  </a>
      </p>
-
+<p>
+ <a href="https://github.com/MFeroz06/SECR1013-Digital-Logic/tree/main/Project" target="_blank">
+  Elevator Controller System
+ </a>
+     </p>
 
 ## 📁 Project
 ---
@@ -269,11 +273,7 @@ SECP1513 | Technology and Information System (WBL)
   UTMSmart Study Space Application
  </a>
      </p>
-<p>
- <a href="https://github.com/MFeroz06/SECR1013-Digital-Logic/tree/main/Project" target="_blank">
-  Elevator Controller System
- </a>
-     </p>
+
 
 ## 📞 Contact
 ---
