@@ -129,7 +129,7 @@
 - **Active Member**
 
 ### Sukan Para Renang Wilayah Persekutuan Labuan (SUPRA)
-- **Committee Member**
+- **Committee Member** (Photography & Reporting)
 
 
 ---
