@@ -1,7 +1,7 @@
 
-<!-- ===== HEADER WAVE ===== -->
+<!-- ===== HEADER WAVE ===== 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
-
+-->
 <!-- ===== ANIMATED TYPING TEXT ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Welcome+to+my+profile%2C+take+a+look+%F0%9F%91%80" />
@@ -284,9 +284,14 @@ Email Me /mfairuz06@gmail.com
  </a>  
 </p>
 
+<p>
+  
 <a href="https://www.linkedin.com/in/muhammad-fairuz-bin-herman-2016a4387/" target="_blank">
     Visit my LinkedIn
+  
 </a>
+
+</p>
 
 <p> 
 
@@ -310,8 +315,9 @@ Visit my Website
 
 --->
 
-<!-- ===== FOOTER WAVE ===== -->
+<!-- ===== FOOTER WAVE ===== 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+-->
 
 <!--
 **MFeroz06/MFeroz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
