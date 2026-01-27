@@ -288,6 +288,13 @@ Email Me /mfairuz06@gmail.com
     Visit my LinkedIn
 </a>
 
+<p> 
+
+<a href="https://mferoz06.github.io/" target="_blank">
+Visit my Website
+ </a>  
+</p>
+
 ---
 
 ## 📊 Github Activity Graph
