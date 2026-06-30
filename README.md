@@ -37,6 +37,9 @@
 - SPM = 2A+ 2A 4A- 1B
 - PAJSK = 8.04 (A)
 ---
+## 📜 Certificate
+- 2026 - CompTIA Data+
+---
 ## 🛠️ Skills  
 ---
 ### Technical Skills
@@ -69,8 +72,16 @@
 ## 🏆 Achievements and Awards 
 ---
 ### Universiti Teknologi Malaysia
+- National-level
+  - **Silver** - Malam Bumi Kenyalang 2026
+ 
+- State-level
+  - **Champion** - Liga Anak Sukan Negeri 2026 (LASKAR'26)
+ 
+  
 - University-level
   - **Runner up** - Sumayau 3.0
+    
 
 ### Kolej Matrikulasi Labuan 
 - College-level
@@ -138,12 +149,14 @@
 ---
 ### Universiti Teknologi Malaysia (UTM)
 - International Level
+  - **Participant** - BorNEO HackWknd 2026 
   - **Facilitator** - Japan Edutourism Exchange Program Shizuoka 2025
   - **Facilitator** - Japan Edutourism Exchange Program Nagasaki 2025
   - **Participant** - Asean Quantum Summit 2025
 - National Level
   - **Participant** - Festival of Ideas 2025
 - University-level
+  - **Participant** - Majlis Anugerah Gemilang Mahasiswa (GEMA) 2026
   - **Person in Charge (PIC)** - Sukan Sains Komputer 2025 (SUSKOM'25)
   - **Performer** - Majlis Citra Gemilang JTNCP 2025
   - **Participant** - Karnival Sukan Minggu Mesra Mahasiswa 2025
@@ -221,7 +234,7 @@
 ## 📖 Courses 
 ---
 ### 1 / SECPH
-#### 1️⃣ Sem 1
+#### 1️⃣ Semester 1
 ---
 <p>
 <a href="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-" target="_blank">
@@ -252,6 +265,10 @@ SECP1513 | Technology and Information System (WBL)
  </a>
      </p>
      
+---
+#### 2️⃣ Semester 2
+---
+
 ---
 ## 🧩 Mini Project 
 ---
