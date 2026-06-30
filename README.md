@@ -149,7 +149,8 @@
 ---
 ### Universiti Teknologi Malaysia (UTM)
 - International Level
-  - **Participant** - BorNEO HackWknd 2026 
+  - **Participant** - BorNEO HackWknd 2026
+  - **Participant** - Gemini Nexus: The Agentverse
   - **Facilitator** - Japan Edutourism Exchange Program Shizuoka 2025
   - **Facilitator** - Japan Edutourism Exchange Program Nagasaki 2025
   - **Participant** - Asean Quantum Summit 2025
